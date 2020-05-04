@@ -1,1 +1,1 @@
-Home?
+Github pages. Woo.
