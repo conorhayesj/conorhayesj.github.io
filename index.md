@@ -1,1 +1,135 @@
-Github pages. Woo.
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Irish Rasperry Pi stock tracker</title>
+  </head>
+  <body class="bg-light">
+    <h1>Irish Rasperry Pi stock tracker</h1>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th> SKU </th>
+                <th> Name </th>
+                <th> Stock </th>
+                <th> Link </th>
+                <th> Price </th>
+                <th> Last Updated </th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td style="width: 20%">RPI4-CASE</td>
+                <td style="width: 20%">RS PRO Aluminium Case</td>
+                <td style="width: 10%">18</td> 
+                <td style="width: 10%"><a href=https://ie.rs-online.com/web/p/raspberry-pi-cases/2309821>Link</a></td>
+                <td style="width: 10%">€50.44</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-2GB</td>
+                <td style="width: 20%">RPI4-MODBP-2GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.farnell.com/raspberry-pi/rpi4-modbp-2gb/raspberry-pi-4-model-b-2gb/dp/3051886>Link</a></td>
+                <td style="width: 10%">€47.28</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-4GB</td>
+                <td style="width: 20%">RPI4-MODBP-4GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887>Link</a></td>
+                <td style="width: 10%">€62.74</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-8GB</td>
+                <td style="width: 20%">RPI4-MODBP-8GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.farnell.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503>Link</a></td>
+                <td style="width: 10%">€85.79</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-4GB-BULK</td>
+                <td style="width: 20%">RPI4-MODBP-4GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://www.mouser.ie/ProductDetail/Raspberry-Pi/RPI4-MODBP-4GB-BULK?qs=vtpzqDgAobkxvB%252BH7oxSXw%3D%3D>Link</a></td>
+                <td style="width: 10%">€60.68</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-8GB-BULK</td>
+                <td style="width: 20%">RPI4-MODBP-8GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://www.mouser.ie/ProductDetail/Raspberry-Pi/RPI4-MODBP-8GB-BULK?qs=sPbYRqrBIVlrjhMid19vUA%3D%3D>Link</a></td>
+                <td style="width: 10%">€85.32</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-4GB</td>
+                <td style="width: 20%">RPI4-MODBP-4GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.rs-online.com/web/p/raspberry-pi/1822096>Link</a></td>
+                <td style="width: 10%">€62.63</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%">RPI4-MODBP-8GB</td>
+                <td style="width: 20%">RPI4-MODBP-8GB</td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.rs-online.com/web/p/raspberry-pi/1822098>Link</a></td>
+                <td style="width: 10%">€83.34</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%"></td>
+                <td style="width: 20%"></td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://ie.farnell.com/raspberry-pi/rpi400-uk/raspberry-pi-400-uk/dp/3526918>Link</a></td>
+                <td style="width: 10%">€73.06</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+            <tr>
+                <td style="width: 20%"></td>
+                <td style="width: 20%"></td>
+                <td style="width: 10%">0</td> 
+                <td style="width: 10%"><a href=https://www.mouser.ie/ProductDetail/Adafruit/4795?qs=sGAEpiMZZMv0NwlthflBi4uA%252BBGighn%2FZRS4Cb9SNQo%3D>Link</a></td>
+                <td style="width: 10%">€79.63</td>
+                <td style="width: 30%">2707 minutes ago</td>
+            </tr>
+            
+        </tbody>
+    </table>
+
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
